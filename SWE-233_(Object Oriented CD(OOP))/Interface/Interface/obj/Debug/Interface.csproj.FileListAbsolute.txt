@@ -1,0 +1,6 @@
+E:\Important File\Programs\Visual Studio\SWE-233_(Object Oriented CD(OOP))\Interface\Interface\bin\Debug\Interface.exe.config
+E:\Important File\Programs\Visual Studio\SWE-233_(Object Oriented CD(OOP))\Interface\Interface\bin\Debug\Interface.exe
+E:\Important File\Programs\Visual Studio\SWE-233_(Object Oriented CD(OOP))\Interface\Interface\bin\Debug\Interface.pdb
+E:\Important File\Programs\Visual Studio\SWE-233_(Object Oriented CD(OOP))\Interface\Interface\obj\Debug\Interface.csprojResolveAssemblyReference.cache
+E:\Important File\Programs\Visual Studio\SWE-233_(Object Oriented CD(OOP))\Interface\Interface\obj\Debug\Interface.exe
+E:\Important File\Programs\Visual Studio\SWE-233_(Object Oriented CD(OOP))\Interface\Interface\obj\Debug\Interface.pdb
